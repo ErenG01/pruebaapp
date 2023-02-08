@@ -1,0 +1,7 @@
+@import url(base.css);
+
+.container-general{
+   
+    display: grid;
+    grid-template-columns: 15% 85%;
+}

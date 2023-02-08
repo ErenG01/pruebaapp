@@ -1,0 +1,51 @@
+@import url(base.css);
+
+.listaccion{
+    /* background-color: burlywood; */
+    width: 90%;
+    height: 100vb;
+    align-items: center;
+    border: solid 1px;
+    margin-left: 1em;
+    
+}
+
+.listaccion ul{
+    /* background-color: azure; */
+    width: 85%;
+    margin-left: 1em;
+    height: 100vb;
+    margin-top: 1em;
+
+
+}
+
+.listaccion ul li{
+    width: 100%;
+    border: solid 1px;
+    padding-top: 9px;
+    padding-bottom: 9px;    
+    align-items: center;
+    display: flex;
+    margin-bottom: 0.5em;
+}
+.listaccion ul img{
+    width: 25px;
+}
+
+.agregar-opcion{
+    width: 50%;
+    /* background-color: blueviolet; */
+    height: 20em;
+    margin:auto;
+}
+ 
+.agregar-opcion #img-plus{
+    width: 100px;
+    margin: 6em auto;
+    text-align: center;
+}
+#desarrollador-por{
+    font-size: 0.8em;
+    margin: auto;
+}
